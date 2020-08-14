@@ -37,6 +37,10 @@ class prefecture {
         const val PREFECTURE_YAMAGUCHI = 0
         const val PREFECTURE_TOKUSHIMA = 0
         const val PREFECTURE_KAGAWA = 0
+        const val PREFECTURE_EHIME = 0
+        const val PREFECTURE_KOUCHI = 0
+        const val PREFECTURE_FUKUOKA = 0
+        const val PREFECTURE_SAGA = 0
         const val PREFECTURE_NAGASAKI = 0
         const val PREFECTURE_KUMAMOTO = 0
         const val PREFECTURE_OOITA = 0
